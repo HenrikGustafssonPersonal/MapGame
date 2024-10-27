@@ -11,4 +11,4 @@ For the backend this project uses serverless setup with Firebase Cloud Functions
 ![Screenshot](screenshot_3.png)
 
 ## Authors
-![Victor Imark](https://github.com/v-imark) & Henrik Gustafsson
+[Victor Imark](https://github.com/v-imark) & Henrik Gustafsson
